@@ -1,4 +1,4 @@
-package com.Varun.Assignment.Service;
+package com.Varun.Assignment.service;
 
 import com.Varun.Assignment.entity.Customer;
 import com.Varun.Assignment.repository.ICustomerRepository;
